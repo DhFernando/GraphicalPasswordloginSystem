@@ -1,0 +1,65 @@
+body{
+    background: url('../images/1.jpg');
+}
+a{
+    text-decoration: none;
+}
+.top{
+    background: rgba(128, 128, 128, 0.466);
+    height: 110px;
+  }
+  .top h3{
+    float: left;
+    font-size: 49px;
+    margin-left: 90px;
+    font-family: monospace;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+.form{
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+ 
+.form input{
+    padding-left: 20px;
+    font-family: monospace;
+    color: white;
+    background-color:rgba(0, 0, 0, 0.24);  margin-top: -5px;
+  height: 30px;
+  width: 270px;
+  font-size: 17px;
+  margin-bottom: 10px;
+}
+
+.form button{
+    width: 70px;
+    height: 36px;
+    margin-top: -20px;
+}
+#image2{
+    height: 400px;
+    width: 650px;
+   float: right;
+   margin-top: -93px;
+   border: 5px solid white;
+   margin-right: 30px;
+}
+.topPicHed h1{
+    background: rgba(128, 128, 128, 0.466);
+    margin-right: 270px;
+    margin-top: -183px;
+    float: right;
+    height:60px;
+    width: 400px;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: monospace;
+}
+#value_X{
+    display: none;
+}
+#value_Y{
+    display: none;
+}

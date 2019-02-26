@@ -1,0 +1,51 @@
+body{
+    background: url('../images/1.jpg');
+}
+.top{
+    background: rgba(128, 128, 128, 0.466);
+    height: 110px;
+  }
+  .top h1{
+      padding-top: 18px;
+    font-family: monospace;
+    font-size: 49px;
+    margin-left: 90px;
+  }
+.con{
+    
+    background-image: url('../images/secret-1.jpg') ;
+    background-repeat: no-repeat;
+    margin: 100px;
+   margin-left: 400px;
+    height: 290px;
+}
+
+
+.logIn{
+float: left;
+border: 1px solid black;
+width: 80px;
+padding: 30px;
+margin-top: 85px;
+margin-left: 110px;
+margin-right: 20px;
+background-color: rgba(159, 104, 214, 0.568);
+
+
+
+}
+.signIn{
+    margin-top: 85px;
+float: left;
+border: 1px solid black;
+padding: 30px;
+
+background-color: rgba(159, 104, 214, 0.568);
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: monospace;
+    
+}
+
