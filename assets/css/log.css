@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    padding: 0px;  
+}
+.clearfix {
+    overflow: auto;
+}
+
+.main_body{
+    margin-top:100px; 
+    background: rgba(128, 128, 128, 0.247);
+    padding: 10px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.note{
+    border: 1px solid rgba(26, 33, 75, 0.432);
+    margin-bottom: 30px;
+    background: white;
+    box-shadow: 8px 8px 8px rgb(82, 82, 82);
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.note h1{
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 10px;
+}
+.note p {
+    margin: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.note a{
+    margin-top: 20px;
+    float: right;
+    color: white;
+    background: rgb(85, 85, 87);
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    padding-right: 30px;
+    padding-left: 30px;
+}
