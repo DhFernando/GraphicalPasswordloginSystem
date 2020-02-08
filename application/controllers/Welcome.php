@@ -35,7 +35,7 @@ class Welcome extends CI_Controller {
 			// uplord pro pic
 			$config['upload_path']='./assets/img/picsOFusers';
 			$config['allowed_types']='gif|png|jpeg|jpg';
-			$config['max_size']='2048';
+			$config['max_size']='10048';
 			$config['max_width']='10000';
 			$config['max_height']='10000';
 			
